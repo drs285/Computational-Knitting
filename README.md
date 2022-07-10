@@ -5,3 +5,8 @@
 ## About The Project
 
 This project aims to develop an algorithm for Computational Knitting that can transform 3D meshes directly into instructions for a computer-controlled knitting machine.
+
+## Contributors
+
+- [@Divyam Patel](https://github.com/pateldivyam26)
+- [@Dhruv Shah](https://github.com/drs285)
