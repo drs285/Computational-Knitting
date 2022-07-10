@@ -1,4 +1,4 @@
-# Computational-Knitting
+# [Computational Knitting](https://github.com/pateldivyam26/Computational-Knitting)
 
 *Mentor: Dr. Rajendra Nagar*
 
